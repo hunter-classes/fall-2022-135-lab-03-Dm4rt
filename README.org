@@ -1,11 +1,8 @@
 * Fall 2022 - Lab 03
 
-* Last name:
-
-* First name:
-
-* GitHub username:
-
+* Last name:Martinez
+* First name:Daniel
+* GitHub username:Dm4rt
 * Notes:
 
 
